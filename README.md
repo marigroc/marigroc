@@ -1,9 +1,6 @@
 👋 Hi, I’m @marigroc
 
-Curiosity led me to data engineering, and I got excellent hands-on, project-based training from AiCore.
-
-This was an excellent opportunity to learn new things and, personally, the humbling realization of how much there is to know.
-I'd love you to look at the repos I have created so far.
+My curiosity for how data can solve real-world problems led me to data engineering. At AiCore, I found a fantastic project-based training program that pushed me to learn new skills like Python and SQL and build data pipelines. It was both humbling and exhilarating to realize how much there is to discover in this field. I'm particularly fascinated by using data to understand user behaviour and predict future trends. Check out my repos to see some of my machine learning and data visualization explorations!
 
 
 <!---
